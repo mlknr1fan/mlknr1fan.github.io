@@ -83,5 +83,3 @@ $(function () {
 
   registerSetup(setup);
 });
-
-});
